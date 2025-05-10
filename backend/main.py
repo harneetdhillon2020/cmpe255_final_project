@@ -1,9 +1,6 @@
-# filename: main.py
+from scripts.clean_data import clean_all_sites
+from scripts.train_model import train_models_per_site
 
-from fastapi import FastAPI
-
-app = FastAPI()
-
-@app.get("/ping")
-async def ping():
-    return {"message": "pong"}
+if __name__ == "__main__":
+    clean_all_sites()
+    train_models_per_site()
