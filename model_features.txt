@@ -1,0 +1,10 @@
+climate_zone
+total_population_served
+county_under_drought_declaration
+water_shortage_level_indicator
+year
+month
+reservoir_storage
+reported_recycled_water
+percent_non_revenue
+hydrologic_region
