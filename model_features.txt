@@ -8,3 +8,13 @@ reservoir_storage
 reported_recycled_water
 percent_non_revenue
 hydrologic_region
+precip
+ETo_mm
+max_temp
+min_temp
+avg_temp
+palmer_hydro
+palmer_z_index
+DissolvedOxygen
+pH
+ElectricalConductance
